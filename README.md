@@ -48,7 +48,7 @@ A React Native application built with Expo to manage and upload daily JSON repor
 
 3. Start the Expo server:
    ```bash
-   npm start
+   npx expo start
    ```
 
 4. Scan the QR code with the Expo Go app (iOS or Android) to run the app on your device.
