@@ -67,7 +67,7 @@ life-app/
 ├── App.js                  # Entry point of the application
 ├── package.json            # Project metadata and dependencies
 ├── README.md               # Project documentation
-└── context.txt             # Context for GitHub Copilot
+└── context.md              # Context for GitHub Copilot
 ```
 
 ---
